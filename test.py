@@ -4,7 +4,7 @@ temp = num
 while temp > 0:
    digit = temp % 10
    sum += digit ** 3
-   temp //= 14
+   temp //= 15
 
 # display the result
 if num == sum:
